@@ -1,0 +1,16 @@
+#+TITLE: Compile as Requirement
+#+DATE: 2020-03-26
+#+DRAFT: false
+#+TAGS[]: general
+
+#+BEGIN_QUOTE
+“The final delivered product should contain the sources, all needed dependencies and the documentation on how to build the system.”
+#+END_QUOTE
+
+Frequently this or something similar could be found in the requirements without a proper description what is really wanted and is often misunderstood on both sides. And sometimes it is dangerous as well.
+
+One question should be: Is this a good requirement? If you’ll take a look at the definition of a good requirement, e.g. at wikipedia or the IEEE docs, this would be enough to start working. Btw. I would replace the /“should contain”/ with /“must contain”/ – it’s less ambiguous and represents a much better level of importance of the requirement. Maybe for some nitpickers it is essential to split this into more requirements – one for sources, one for dependencies and one for the documentation – /Atomic!/
+
+Finally, and at the latest after months of hard work and several – even harder – meetings with your customers, the /Verification/ strikes in.
+
+Now, it would be easy to deliver exactly as stated. The sources, the dependencies and the documentation. By legal this could be verified too and everything should be fine but it isn’t in many cases. If there is a well written documentation and every single problem is mentioned in there – be happy and start. I’ve never ever seen this in the wild.

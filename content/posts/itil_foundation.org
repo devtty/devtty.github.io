@@ -1,0 +1,6 @@
+#+TITLE: ITIL® Foundation Certification passed
+#+DATE: 2017-07-12
+#+DRAFT: false
+#+TAGS[]: general
+
+Today I’ve got my results of the ITIL® Foundation exams after three days of training (more or less ;-)). Someone told me it improves my understanding of IT service management but I fear the upcoming paperwork 😉

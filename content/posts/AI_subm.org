@@ -1,0 +1,16 @@
+#+TITLE: artificial intelligence assignments
+#+DATE: 2021-12-08
+#+DRAFT: false
+#+TAGS[]: university
+
+To qualify for the final exam in Artificial Intelligence I had to pass two out of three submission tasks and each submission consisted of three exercises to which corresponsing questions had to be answered. Unfortunatly, the teacher prohibited the publication of the assignments.
+Instead, I'll try to describe them.
+
+Topic of the first submission was /"Search strategies and Constraint Satisfaction Problems"/. There was a multiple-choice test about chracteristics of different search strategies,
+a practical traversal of a search tree (with three different algorithms) and two /CSPs/ to solve.
+
+The second submission got more practical on /"Machine Learning"/. Again starting with a super-easy "just learn and describe things"-task, like explain "classification, regression, clustering, supervised, unsupervised, ..."!
+To solve the next both tasks it was necessary to get into /scikit learn/. The Topic was /"Linear and non-linear Support Vector Machines"/. For both SVM-types some values (training data, targets, etc.) were given and we had to plot and analyze the results. It felt
+a little bit like high school /curve discussion/ but more stressing. 
+
+Lucky me solved both tasks - so I didn't need the third ;-) Topics here were "Decision tree learning", "unsupervised learning - k-means clustering" and "hierarchical bottom-up clustering". Again with SciKits help. But this was just the qualification!

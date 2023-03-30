@@ -1,0 +1,27 @@
+#+TITLE: Lost Backups
+#+DATE: 2018-12-20
+#+DRAFT: false
+#+TAGS[]: general
+
+Today someone asked if I’ve got Backups of every piece of code i’d wrote. Intimidating question and of course *not*.
+I’m sure I’ve got zipped backups of the last sources for some older ones but in  most cases a backup of the VCS for
+the important projects. Somewhere the CVS for the ugly LaTeX things called Diploma thesis too.
+
+I know only two cases were i really regret not having a backup.
+
+The first one is a project I’ve done for a company ten years ago. There was a SVN repo on an USB stick which should be
+somewhere in my desk. All these years the delivered product seemed to run flawlessly and I had no contact to the
+company. Ten years later the call came in. They are still happy /‘nice to hear btw‘/ but there are new requirements
+and ideas to extend. Damn it, where is the stick with the old source and docs? Didn’t found it yet. Ten years… Good time to write a new version from scratch 😂
+
+#+ATTR_HTML: :alt Diskette :width 200px
+[[/img/lostback.jpg]]
+
+The second case is a programm I’d wrote in high school times. I’ve got a backup on a floppy disk (/you know these 3,5 ” plastic things from ancient times?/).
+As kid I started coding with Logo and BASIC. Later I’ve got into Pascal and this programm marks my personal step from procedural to object-orientated
+paradigm… Big step for a kid though. The small programm could calculate or simulate a throw under perfect conditions and with respect to form, size
+and drag of the thrown object including a representation of the ballistic curve. I remember that I’ve presented this in physics and not in CompSci.
+Got a grade on it… best one. A year ago I thought it would be a good idea to copy the sources into my repository. At first it was hard to find a
+working floppy drive, fingers crossed that the disk is still readable. I’ve found one but -damn it- the only files on the disk were the binary
+executable and some compiled libs. Additionally this wasn’t executable on a modern environment anymore. Decompiling would work (maybe) but it
+wouldn’t be the same as the original written things. So everything left now are the nice memories, a floppy disk and the 1990s version of a start into a comp sciences career. 

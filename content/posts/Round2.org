@@ -1,0 +1,12 @@
+#+TITLE: Round 2
+#+DATE: 2021-09-10
+#+DRAFT: false
+#+TAGS[]: university
+
+Next round starts with:
+
+- information architecture @ THL
+- artifical intelligence @ Ostfalia
+- modern software development @ BHT
+- and user experience @ HSEL
+

@@ -1,0 +1,25 @@
+#+TITLE: Agile BBQ
+#+DATE: 2018-10-19
+#+DRAFT: false
+#+TAGS[]: general training
+
+Sometimes strange things could be nice too – I’ve got an invitation from a consulting company to join an evening where practices for IT service management should be applied on the example of ‘grilling a steak’. Sounds funny. Service management is not necessarily my topic but meat in combination with fire -of course- is.
+
+In many cases I’m not in tune with (many) consultants – /it starts with the suits/ – and this evening sadly reinforced this feeling. As I arrived I realized that this event was obviously from higher management consultants for higher management consultants and there I sat surrounded by suits not knowing if I’m able or willing to adapt to the superior posted behavior and language. Of course I have to admit this did not apply to everyone and I shouldn’t be this biased. Heya there is beer and appetizers – /Alsace Tarte Flambée/ with bacon and onions and sandwiches with some kind of stilton and figs.
+
+After this – and another beer – speaking was a little bit easier and some even loosened their ties. Time to start the first lesson – /Simmentaler/. The chef and master of bbq put the mighty piece for a minute on the flames followed by wrapping it in baking paper. Now it should simmer at a far lower temperature until a defined core temperature will be reached. Insert a small joke about /raw/ and /rare/ here (works in german, sry) and in the mean time they prepared a little presentation.
+
+#+BEGIN_QUOTE
+“Agile!”
+#+END_QUOTE
+
+Honestly… I’m a little bit confused now. There are the /suits which follow a plan/ by selling /processes and contracts/ with a /comprehensive documentation/. But the chef is trained very well in /interaction and collaboration/. Not to mention of the /working products/. Wait… we have to respond to change… steak is ready.
+
+I think I am already fed up but lesson number two waits – Roasted /Duroc pork/ with salt-baked new potatoes and chicory in saffron-honey dressing. Additionally another beer for me – wine for the suits – before the next presentation starts.
+
+Schizo – not related to this event but more with my experiences on talking with people dedicated to processes itself. E.g. how can someone say we wan’t less documentation but we have to write it down? Success is dependent on the team and the commitment of the members to the project at least in software development. I really don’t know how it is in service management. And there is always someone you will have to depend on who really likes to write over-extensive process- and operating instructions. This doesn’t mean these instructions aren’t necessary – I just think of the over-extensive ones, books sometimes, and the folks who write them just to write them (/remind me to read David Grabers “Bullshit Jobs: A theory”/). Err… you know what I mean, do you? Maybe there is a mistaken belief to become a master in agile by writing processes and instructions or better said, the misbelief that everyone else should do so. This is just competence in Dreyfus’ model not master.
+
+I can’t say what dessert was served… sth. like termisu or biscuit rolls in vanilla sauce. It was a really nice evening with too much talking, very good food only a few insights. But at least I’ve got a /‘grill master‘/ certificate!
+
+
+

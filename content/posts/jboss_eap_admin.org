@@ -1,0 +1,10 @@
+#+TITLE: JBoss EAP 6/7 Administration and Development Training Days
+#+DATE: 2018-09-20
+#+DRAFT: false
+#+TAGS[]: general training
+
+	
+
+…just basics. I believe my first encounter with JBoss as application server was in 2003 and most projects before where done with Apaches Tomcat. Nearly one or two years later – and with a little bit more experience with Java Enterprise – the JBoss system became the preferred app server by me and the tool of choice (in cases where I’ve got the choice).
+
+Working with it on a regular basis started but since then I’d never thought about some kind of training. Due to I’m a development guy maintaining JBoss means in most cases something like setting up, deployment, config the datasources and security things – and all this mostly not in productive scenarios. As it happens, I’ve got the chance to visit a training for a week with a nice bunch of people. 7 from ops, 3 from dev and 3 rather undefined ones – a perfect mixture to see, discuss and solve problems from other viewpoints. Usually this could be the case in the daily work too but this was without pressure and more comfortably despite the extensive topics that were dealt with in just five days.

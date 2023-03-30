@@ -1,0 +1,8 @@
+#+TITLE: Dev Track - containers and native cloud @ RedHat
+#+DATE: 2018-04-16
+#+DRAFT: false
+#+TAGS[]: development
+
+	
+
+I’m on my way to the RoadShow and expecting much fun with some other guys working together. In some aspects the current openshift is still a little bit confusing (compared against v2) and not in productive use (here). So I’ll hope to get some nice inputs and discussions at the event.

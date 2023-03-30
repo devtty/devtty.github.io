@@ -1,0 +1,8 @@
+#+TITLE: Security techniques in communication networks
+#+DATE: 2021-07-30
+#+DRAFT: false
+#+TAGS[]: university ITSec
+
+Really this sounds like a topic for comp science people, eh? Believe me, it is. The course had weekly lectures, two longer presentations (nearly 4 hours each) at some weekends, several multiple choice tests and two bigger submission tasks and finally a half hour of an oral exam.
+
+The topics ranged from ARP-Spoofing to ZAP-Tests and everything with practical exercises. Attack vectors, sniffing, firewalls, ransomware, a very good mixture and deep insight into security. A smaller second part dealt with things like (the german) IT baseline protection, ISO 27000 and information security management systems. In fact, this course had a very (very, very) high information density rate and it wasn’t as easy as I tought it would be. Things like OWASPs ZAP, encryption and authentication methods was part of my daily work in the last years – no problem. But as it came to the hardware related stuff it became hard for me as well. Strange network masks – not mine. Binary calculations – not mine. Had a huge amount to learn.

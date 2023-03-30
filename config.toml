@@ -1,0 +1,68 @@
+baseURL = "http://devtty.com/"
+languageCode = "en-gb"
+title = "devtty"
+theme = 'cactus'
+
+[params]
+rss = true
+description = "**Hiya!** I'm Denis - currently software developer, project daddy and student. <br><br>A private travel blog is available at www.renning.de"
+mainSectionTitle = "Blog"
+
+tagsOverview = true
+
+showProjectsList = false
+projectsUrl = "https://github.com/devtty"
+colortheme = "devtty"
+# css = ["css/styles.css"]
+gravatar = "denis@devtty.de"
+
+showAllPostsArchive = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[params.social]]
+name = "github"
+link = "https://github.com/devtty"
+
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/dev_tty/"
+
+[[params.social]]
+  name = "instagram"
+  link = "https://instagram.com/dev_tty/"
+
+[[params.social]]
+  name = "email"
+  link = "denis@devtty.com" # no need for "mailto:" at the start
+
+[privacy]
+  [privacy.twitter]
+    enableDNT = true
+    simple = true
+    disableInlineCSS = true
+  [privacy.youtube]
+    privacyEnhanced = true
+

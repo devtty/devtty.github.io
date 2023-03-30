@@ -1,0 +1,13 @@
+#+TITLE: Round 1
+#+DATE: 2021-04-17
+#+DRAFT: false
+#+TAGS[]: university
+
+First round:
+
+- motion graphics @ BHT
+- smart graphics @ THB
+- security techniques in communication networks @ THL
+- media didactics @ BHT
+
+

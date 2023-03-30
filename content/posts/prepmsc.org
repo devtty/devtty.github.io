@@ -1,0 +1,7 @@
+#+TITLE: Final preperation
+#+DATE: 2023-03-01
+#+DRAFT: false
+#+TAGS[]: university
+
+Currently I'm preparing for a master thesis on the topic of "Web Application Firewalls and Machine Learning"
+

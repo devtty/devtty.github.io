@@ -1,0 +1,45 @@
+#+TITLE: Coderetreat @ gameduell
+#+DATE: 2017-04-01
+#+DRAFT: false
+#+TAGS[]: development training
+
+What a sunny saturday morning! Just leave the family at home, take the bike and go to … a coderetreat! What? I’ve got the invitation to “work” this saturday (april fools day) from a friend some weeks ago and I must say I don’t regret it. The definition of a coderetreat is:
+
+#+BEGIN_QUOTE
+Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design.
+
+- [[https://coderetreat.org][coderetreat.org]]
+#+END_QUOTE
+
+At 9 o’clock nearly 20 developers met in the (really nice) offices of a game company in Berlin to start practicing with
+just one goal: implementing the “Pacman”. The fun starts with the people. You should know that the mix of different
+qualifications that the participants represents is very welcome at such an event and it doesn’t mean just different
+languages!!! /BTW – there were some Java-guys, some Python-speaking-people, C++, some polish ones, a russian and even a SmallTalk-Fan./
+It means differences in practical knowledge as well. May be half of the attendees were (professional) developers and the other half
+consisted of interested persons from other areas like graphic design or project management – I saw a kid too.
+
+#+BEGIN_QUOTE
+Coderetreat is a day-long, nice practice event, where you’ll meet interesting people, get usable insights from each other and learn many new things.
+#+END_QUOTE
+
+After a short introduction – so that everybody knows each other – the rules were made:
+
+1. *Teams* - a team consists of two – one of the goals is to get some experience (or first contact) to [[https://en.wikipedia.org/wiki/Pair_programming][pair programming]] techniques and it’s obvious that you’ll learn much more from the resulting discussions with your teammate as from the task itself.
+2. *Sessions* - it is not possible to implement the whole game with two people (with a different skill set) in a day, so we need just some parts or a scaffold-like (but working) implementation of some concepts focused on a specific task.
+3. *Timeout* – All teams got a specific amount of time for each task (or session). This can vary between tasks (but 45 minutes seems to be a good average). Fun Fact: immediatly after timeout all results will be wiped and all teams take part at a retrospective discussion.
+4. *Switch* – Switch your teammate after each session!
+
+With nearly an hour for one session including the retrospective there was time for 6 or 7 sessions with different tasks and an
+increasing level (of results, discussions, experience, training, …). Central theme of the first two or three sessions were
+[[https://en.wikipedia.org/wiki/Pair_programming][pair-programming]] and [[https://en.wikipedia.org/wiki/Test-driven_development][test-driven-development]]. Personally I really liked the insight how other people behave in the situation
+when they became navigator and the experience to work with an other (non-preferred) language.
+
+After further discussions at the lunch break //Chili was nice too// the tasks changed and got very interesting.
+Implementing pacman w/o if-statements or just without loops in an unfamiliar environment and a short time range can get a brainbreaker but has a lot of fun.
+
+At the end all participants gathered to reflect about the day and the experiences they made. Many thanks for this event to [[https://twitter.com/codecopkofler][@codecopkofler]] and [[https://twitter.com/martinklose][@martinklose]]
+
+* More at
+
+- [[http://coderetreat.org/][coderetreat.org]]
+- [[https://www.softwerkskammer.org/groups/berlin][Softwerkskammer Berlin]]

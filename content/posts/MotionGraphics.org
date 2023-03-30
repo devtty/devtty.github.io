@@ -1,0 +1,33 @@
+#+TITLE: The Art of Motion Graphics
+#+DATE: 2021-06-14
+#+DRAFT: false
+#+TAGS[]: university graphics video
+
+
+At the university I’m currently in a course called “Design of Motion Graphic Interfaces” and one assignment is to create a video clip consisting of four parts matching the following requirements:
+
+- the 1st part should introduce me
+- the other parts should be related to given chapters from Hararis “Homo Deus”
+- you’ll have to use given techniques (like greenscreening, shape-transforming, alpha-masks,…)
+- try to avoid cliparts and copyrighted content
+- and intermediate sequences should glue everything together
+
+I have to say that this isn’t my personal favorite work to do and I had to start from scratch. I’ve never worked with a tool like Adobe After Effect before (I didn’t like Macromedias Director at a similar course 20 years ago) and there wasn’t even a small introduction into the software – only the statement that the students should take an online course for beginners, Hararis book, the requirements and weekly meetings on “How it’s going”. Funny that we talked in another course (media didactics) about target groups and forms of learning I thought. The basic knowledge of the course members ranged from “bloody noob” to semi professional. I think that comparing the results at the end isn’t that easy. Maybe working in a group would have been more appropriate here.
+
+ {{< youtube CEe8UEtkAx4 >}}
+
+Additionally I have to say I’m ambivalent about the book because the book at all is good and quiet easy to read but some sections are – in my opinion – terrible wrong (in an emotional way too). For example – Harari declares the october revolution as some lucky event of a few (criminals) and in the same book he tells us that “the Nazis represent only one extreme version of evolutionary humanism.” In his logic that is surely the truth but both statements together is by far against my own upbringing and feels utterly wrong. And at this point I felt not very tempted to create some kind of promo for this book. The book couldn’t bring back any excitement in the later chapters… sorry. Yeah, it was interestingly but not much more. No excitement. At some passages I mixed him up with /Dawkins/ (uh they could be friends) and the propagated level of transhumanism isn’t the one I like from the beloved scifi-literature, it is more the one which leads to conspiracy theories.
+
+#+BEGIN_QUOTE
+“If Marx came back to life today, he would probably urge his few remaining disciples to devote less time to reading Das Kapital and more time to studying the Internet and the human genome.”
+
+Yuval Noah Harari, Homo Deus: A History of Tomorrow
+#+END_QUOTE
+
+Probably, he would… but on the other hand he would stumble over a lot of cat videos, he probably would laugh for three, four or five of them… But then… then it is more likely that this old white bearded man would rage: “What? Bollocks! You mean people earn money with this? ” and if you tell him about Bezos and Zuckerberg and the poor souls who sell everything (and I really mean everything) for likes and followers, you would slowly recognize his disappointment in his eyes. He would turn around, quietly babbling “I told you” and “read the book again” and than he would vanish – back into his time again. In another version he would beat the shit out of you, shouting that “You should had done something against this!”
+
+Oh, I got a question. I’m not sure, in 1867, did /Social Impact Companies/ exist? But then, Zen says… don’t care to much! And I finished the movie…
+
+* Links
+
+- So happy I'm not the only one - https://hpd.de/artikel/grosse-harari-verwirrung-14664

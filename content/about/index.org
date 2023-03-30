@@ -1,0 +1,5 @@
+#+TITLE: About
+#+DRAFT: false
+
+
+Additionally there is another blog at [[https://www.renning.de][renning.de]] where you can find some travel memories of me and my family.
