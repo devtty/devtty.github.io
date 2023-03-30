@@ -1,0 +1,16 @@
+#+TITLE: Back to the roots... static sites
+#+DATE: 2023-03-30
+#+DRAFT: false
+#+TAGS[]: general
+
+
+Ok... Finally, I moved this blog to a much simpler,technical platform for a simple reason. The contract with my hosting provider includes three domains but only one wildcard certificate for one of these.
+If I want to secure the other domains (like this one) they'll force me to upgrade to a more expensive contract or to buy additional certificates. But this is not in my interest. Additionally, this is just
+a small blog with not much content and more text then everything else. No need for a database and a full blown wordpress installation.
+
+* Bye WordPress, Hello Hugo
+At first I set up a local static site generator ([[https://gohugo.io][Hugo]]) and fed it with all those old blog posts. Getting the text and solving some layout and formatting issues took me half a day. But, honestly, working with a
+simple text editor is so much easier. All the work should be in a version control system and I needed space to host the resulting static pages. Not to forget the ability to serve the encrypted content. GitHub is
+your friend and works together with Hugo and LetsEncrypt. Final step: connect with your old domain --> done in some minutes. And here we are now.
+
+  
