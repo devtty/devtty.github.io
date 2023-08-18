@@ -1,0 +1,15 @@
+{
+    "ApplicationName": "TestApplicationRemote",
+    "LogVerboseForDevelopmentMode": "true",
+    "DefaultProductionModeCheckerValue": "false",
+    "LogClientUserData": "true",
+    "Debug": "true",
+    "CharacterEncoding": "UTF-8",
+    "DefaultAttackerLoggerDirectory": "/home/user/temp",
+    "LearningModeAggregationDirectory": "/home/user/temp",
+    "BlockInvalidEncodedQueryString": "true",
+    "ParameterAndFormProtection": "false",
+    "SecretTokenLinkInjection": "false",
+    "QueryStringEncryption": "false",
+    "ExtraCheckboxProtection": "false"    
+}
