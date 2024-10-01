@@ -1,5 +1,8 @@
-#+TITLE: About
+#+TITLE: About me
 #+DRAFT: false
 
+## Education
+- [HTW Berlin](https://www.htw-berlin.de/en/)
+- [BHT Berlin](https://www.bht-berlin.de/en/)
 
 Additionally there is another blog at [[https://www.renning.de][renning.de]] where you can find some travel memories of me and my family.
