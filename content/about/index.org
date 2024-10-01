@@ -2,7 +2,7 @@
 #+DRAFT: false
 
 * Education
-- :mortar_board: Diplom-Informatiker in International Media and Computing @[[HTW Berlin][https://www.htw-berlin.de/en/]]
-- :mortar_board: Master of Science in Media Informatics @[[BHT Berlin][https://www.bht-berlin.de/en/]]
+- :mortar_board: Diplom-Informatiker @ [[https://www.htw-berlin.de/en/][HTW Berlin]]
+- :mortar_board: Master of Science @ [[https://www.bht-berlin.de/en/][BHT Berlin]]
 
 Additionally there is another blog at [[https://www.renning.de][renning.de]] where you can find some travel memories of me and my family.
