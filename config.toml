@@ -5,7 +5,7 @@ theme = 'cactus'
 
 [params]
 rss = true
-description = "**Hiya!** I'm Denis - currently software engineer and specialized on web applications and IT security. With <br><br>A private travel blog is available at www.renning.de"
+description = "**Hiya!** I'm Denis - currently software engineer and specialized on web applications and IT security. <br><br>A private travel blog is available at www.renning.de"
 mainSectionTitle = "Blog"
 
 tagsOverview = true
