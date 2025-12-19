@@ -47,10 +47,6 @@ name = "github"
 link = "https://github.com/devtty"
 
 [[params.social]]
-name = "bluesky"
-link = "https://bsky.app/profile/devtty.de"
-
-[[params.social]]
   name = "instagram"
   link = "https://instagram.com/dev_tty/"
 
