@@ -47,10 +47,6 @@ name = "github"
 link = "https://github.com/devtty"
 
 [[params.social]]
-  name = "twitter"
-  link = "https://twitter.com/dev_tty/"
-
-[[params.social]]
   name = "instagram"
   link = "https://instagram.com/dev_tty/"
 
@@ -59,10 +55,6 @@ link = "https://github.com/devtty"
   link = "denis@devtty.com" # no need for "mailto:" at the start
 
 [privacy]
-  [privacy.twitter]
-    enableDNT = true
-    simple = true
-    disableInlineCSS = true
   [privacy.youtube]
     privacyEnhanced = true
 
