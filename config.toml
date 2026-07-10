@@ -1,9 +1,16 @@
 baseURL = "http://devtty.com/"
-languageCode = "en-gb"
+locale = "en-gb"
+defaultContentLanguage = "en"
 title = "devtty"
-theme = 'cactus'
+theme = 'LoveIt'
+
+languageCode = "en"#
+languageName = "English"
+
+copyright = "devtty"
 
 [params]
+title = "devtty"
 rss = true
 description = "**Hiya!** I'm Denis - currently software engineer and specialized on web applications and IT security. <br><br>A private travel blog is available at www.renning.de"
 mainSectionTitle = "Blog"
@@ -17,6 +24,29 @@ colortheme = "devtty"
 gravatar = "denis@devtty.de"
 
 showAllPostsArchive = false
+
+[params.author]
+name = "denis r."
+email = "denis@devtty.de"
+
+[params.header.title]
+name = "devtty"
+pre = "<i class='far fa-grin-tongue-wink' aria-hidden='true'></i>"
+
+[params.footer]
+enable = true
+hugo = true
+author = false
+license = 'Denis Renning | <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.home]
+  [params.home.profile]
+  enable = true
+  gravatarEmail = "denis@devtty.de"
+  title = "Hiya!"
+  subtitle = "I’m Denis - currently software engineer and specialized on web applications and IT security."
+  typeit = false
+  social = true
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -42,17 +72,19 @@ name = "About"
 url = "/about"
 weight = 4
 
-[[params.social]]
-name = "github"
-link = "https://github.com/devtty"
+[params.page.share]
+enable = true
+X = false
+Weibo = false
 
-[[params.social]]
-  name = "instagram"
-  link = "https://instagram.com/dev_tty/"
-
-[[params.social]]
-  name = "email"
-  link = "denis@devtty.com" # no need for "mailto:" at the start
+[params.social]
+GitHub = "devtty"
+Instagram = "dev_tty"
+#Keybase="devtty"
+#Bandcamp="sad"
+#Steam="hosenscheisser"
+Bluesky = "devtty.de"
+Email ="denis@devtty.de"
 
 [privacy]
   [privacy.youtube]

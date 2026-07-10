@@ -2,8 +2,15 @@
 #+DRAFT: false
 
 ** Education
+- 1997 A level @ [[https://gymnasium-wandlitz.de/][Gymnasium Wandlitz]]
 - 2003 Diplom-Informatiker @ [[https://www.htw-berlin.de/en/][HTW Berlin]] 
 - 2023 Master of Science @ [[https://www.bht-berlin.de/en/][BHT Berlin]]
+
+** Publications
+- *Teaching by chat* (2003)\\ 
+  /Development of a learning system based on the Apache Struts Framework and the Tamino native XML storage, incorporating didactic principles./
+- *Web Application Firewalls and Machine Learning* (2023)\\ 
+  /Web Application Firewalls are an essential component in the protection of web applications against many types of attacks from the network. In many cases, these firewalls are provided as reverse proxy to be installed in front of the vulnerable application. The configuration of such a system, however, often proves to be more complicated. This paper gives a brief overview of the topic and provides simple configuration examples. Additionally suggestions for further improvements will be given as well./
 
 ** With whom I worked
 - BVL, Deutscher Bundestag, IBM, Siemens, Swatch, T-Mobile, Wincor Nixdorf, Yello Strom
