@@ -48,6 +48,11 @@ license = 'Denis Renning | <a rel="license external nofollow noopener noreffer" 
   typeit = false
   social = true
 
+[params.analytics]
+  [params.analytics.google]
+    id = "G-7FVGS30ZD1"
+    respectDoNotTrack = true
+
 [markup.goldmark.renderer]
   unsafe = true
 
