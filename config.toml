@@ -26,7 +26,7 @@ gravatar = "denis@devtty.de"
 showAllPostsArchive = false
 
 [params.author]
-name = "denis r."
+name = "Denis"
 email = "denis@devtty.de"
 
 [params.header.title]
@@ -58,7 +58,7 @@ license = 'Denis Renning | <a rel="license external nofollow noopener noreffer" 
     [params.ads.google]
       id = "pub-2603697919028573"
   [params.cookieconsent]
-    enable = true
+    enable = false
       [params.cookieconsent.content]
       message = ""
       dismiss = ""
