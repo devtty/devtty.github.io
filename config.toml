@@ -53,6 +53,13 @@ license = 'Denis Renning | <a rel="license external nofollow noopener noreffer" 
     id = "G-7FVGS30ZD1"
     respectDoNotTrack = true
 
+[params.ads]
+    enable = false
+    [params.ads.google]
+      id = "pub-2603697919028573"
+  [params.cookieconsent]
+    enable = true
+    
 [markup.goldmark.renderer]
   unsafe = true
 
